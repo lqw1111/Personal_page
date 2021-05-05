@@ -6,9 +6,8 @@
 
 #
 
-[<img align="left" alt="LinkedIn" width="33px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" />]https://www.linkedin.com/in/qinwei-luo-032650157/[linkedin] 
-[<img align="left" alt="Youtube" width="33px" src="https://img.icons8.com/fluent/96/000000/youtube-play.png" ></img>][ytb]
+[<img align="left" alt="LinkedIn" width="33px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" /><a href="https://www.linkedin.com/in/qinwei-luo-032650157"></img>]/[linkedin] 
+[<img align="left" alt="Youtube" width="33px" src="https://img.icons8.com/fluent/96/000000/youtube-play.png" ><a href=""></img>][ytb]
 
-[instagram]: https://instagram.com/twei3
-[linkedin]: https://linkedin.com/in/tieda
-[ytb]: https://www.youtube.com/channel/UC_k166vBPbUmyflrHuoP_3w
+[linkedin]: https://img.icons8.com/fluent/96/000000/linkedin.png
+[ytb]: https://www.youtube.com/channel/UCBNnkh56FRtccXnr1MmIGQw
