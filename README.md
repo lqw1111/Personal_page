@@ -6,7 +6,7 @@
 
 #
 
-[<img align="left" alt="LinkedIn" width="33px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" /><a href="https://www.linkedin.com/in/qinwei-luo-032650157"></img>]/[linkedin] 
+[<img align="left" alt="LinkedIn" width="33px" src="https://img.icons8.com/fluent/96/000000/linkedin.png" /><a href="https://www.linkedin.com/in/qinwei-luo-032650157"></img>][linkedin] 
 [<img align="left" alt="Youtube" width="33px" src="https://img.icons8.com/fluent/96/000000/youtube-play.png" ><a href=""></img>][ytb]
 
 [linkedin]: https://img.icons8.com/fluent/96/000000/linkedin.png
